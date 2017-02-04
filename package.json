@@ -26,7 +26,7 @@
     "ip": "1.1.0",
     "nicercast": "0.1.0",
     "nodetunes": "git://github.com/npwalker/nodetunes#master",
-    "sonos": "git://github.com/jens-maus/node-sonos.git#stephen-1.0.0"
+    "sonos": "git://github.com/npwalker/node-sonos.git#use_jens_maus_pr"
   },
   "license": "MIT",
   "devDependencies": {
